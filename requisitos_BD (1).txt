@@ -1,0 +1,25 @@
+1- Ao efetuar o pagamento, o registo do pedido fica registado no sistema.
+2- Quando efetuado um pagamento, no pedido deve ser marcado o número do funcionário que fez a ação.
+3- Para cada ação só deve ser dado o número de um funcionário.
+4- Quando o fornecedor entrega mercadoria, um funcionário deve atualizar a base de dados com a mercadoria que chegou, guardando também o pagamento feito ao fornecedor (pode ser tambem um pedido).
+--5- Se um cliente quer comer uma pizza, deve escolher o tipo de massa e ingredientes para um dos funcionários dozinhar a pizza.
+--6- Se um cliente quer beber alguma coisa deve efetuar um pedido a um funcionário dizendo também que bebida deseja.
+--7- Depois de o cliente efetuar o pedido e pagar, o funcionárop deve ver se tem os ingredientes para completar o pedido com sucesso.
+8- A partir das idades de cada cliente que efetuou pedido, é possível saber a média das idades dos clientes da pizzaria.
+9- Se o cliente mudar as suas credenciais, podendo ser cidade ou freguesia, o funcionário pode efetuar tais alterações no sistema.
+10- Deverá ser possível ao funcionário consultar o número total de pedidos que um cliente pediu num dado intervalo de tempo.
+--11- Ao cliente que tiver mais pedidos num dado mês, é-lhe atribuído o prémio de "MELHOR CLIENTE DO MÊS".
+12- Os clientes e funcionários devem ser registados no sistema, na altura da inscrição de um cliente ou funcionário, é necessário indicar as credenciais necessárias para um registo com sucesso.
+13- Os ingredientes estarão catalogados no sistema de acordo com a preferência dos clientes, sendo caracterizados pelo ...(ver modelo lógico)".
+14- Os clientes, tal como funcionários, ingredientes...só podem estar inscritos uma única vez no sistema.
+15- Quando o cliente faz um pedido, o stock de cada produto deve ser atualizado conforme o pedido do cliente. Por exemplo, se o cliente pede uma Coca Cola o funcionário deve ir ao sistema e atualizar o número de Coca Cola disponível para futuros clientes.
+16- É possível verificar no sistema qual é o seu maior fornecedor.
+17- Um funcionário pode ver, até ao momento, quais são os ingredientes mais pedidos. 
+18- Verificar se há componente de um dado ingrediente.
+19- Ver os ingrdientes presentes num dado pedido.
+20- Verificar os telefones associados a um cliente.
+
+
+
+
+
